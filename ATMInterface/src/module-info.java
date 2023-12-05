@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author sathv
+ *
+ */
+module ATMInterface {
+}
